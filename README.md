@@ -85,7 +85,7 @@ npm run dev
 ---
 
 ## 📬 Contact
-For any queries or collaboration, feel free to reach out at: *khanowaiszai@gmail.com*
+For any queries or collaboration, feel free to reach out at: *sainihimanshu20001@gmail.com*
 
 ---
 
